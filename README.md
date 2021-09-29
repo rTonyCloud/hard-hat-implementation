@@ -26,6 +26,7 @@ npx hardhat test
 
 ## languages
 solidarity
+Javascript
 
 ## Contributors
 There are many ways in which anyone could contribute with resolving bugs, tickets and much more. If you have any questions, or concerns, please econtact us under the questions section
